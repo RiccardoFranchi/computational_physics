@@ -1,0 +1,96 @@
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ gcc -Wall esercizio3_2.c -o esercizio3_2 -lm
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2dammi r: 1
+Q[1.000000] = 6.260410
+E[1.000000] = 6.260410
+V[1.000000] = 21.496655
+V[1.000000] = 21.502921
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ gcc -Wall esercizio3_2.c -o esercizio3_2 -lm
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2dammi r: 1
+Q[1.000000] = 6.260410
+E[1.000000] = 6.260410
+V[1.000000] = 21.502956
+V[1.000000] = 21.509166
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2
+dammi r: 5
+Q[5.000000] = 31.498734
+E[5.000000] = 1.259949
+V[5.000000] = 6.299840
+V[5.000000] = 6.284091
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ gcc -Wall esercizio3_2.c -o esercizio3_2 -lm
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2dammi r: 5
+Q[5.000000] = 31.498734
+E[5.000000] = 1.259949
+^C   
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ gcc -Wall esercizio3_2.c -o esercizio3_2 -lm
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2dammi r: 5
+Q[5.000000] = 31.498734
+E[5.000000] = 1.259949
+V[5.000000] = 6.299840
+V[5.000000] = 6.299525
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ gcc -Wall esercizio3_2.c -o esercizio3_2 -lm
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2dammi r: 0
+Q[0.000000] = 0.000000
+E[0.000000] = 0.000000
+^C
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ gcc -Wall esercizio3_2.c -o esercizio3_2 -lm
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2dammi r: 1
+Q[1.000000] = 6.260410
+E[1.000000] = 6.260410
+V[1.000000] = 21.446125
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2
+dammi r: 0.5
+Q[0.500000] = 0.972055
+E[0.500000] = 3.888219
+V[0.500000] = 24.123954
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2
+dammi r: 0
+Q[0.000000] = 0.000000
+E[0.000000] = 0.000000
+^C
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2
+dammi r: 0.1
+Q[0.100000] = 0.008353
+E[0.100000] = 0.835291
+V[0.100000] = 25.105860
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2
+dammi r: 0.001
+Q[0.001000] = 0.000000
+E[0.001000] = 0.008378
+V[0.001000] = 25.148287
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2
+dammi r: 0.0001
+Q[0.000100] = 0.000000
+E[0.000100] = 0.000863
+V[0.000100] = 25.148291
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ gcc -Wall esercizio3_2.c -o esercizio3_2 -lm
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2dammi r: 0.5
+Q[0.500000] = 0.972055
+E[0.500000] = 3.888219
+V[0.500000] = 24.131869
+V[0.500000] = 24.133365
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2
+dammi r: 0.1
+Q[0.100000] = 0.008353
+E[0.100000] = 0.835291
+V[0.100000] = 25.103861
+V[0.100000] = 25.105403
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2
+dammi r: 0.001
+Q[0.001000] = 0.000000
+E[0.001000] = 0.008378
+V[0.001000] = 25.146285
+V[0.001000] = 25.147827
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2
+dammi r: 0.0001
+Q[0.000100] = 0.000000
+E[0.000100] = 0.000863
+^C
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ gcc -Wall esercizio3_2.c -o esercizio3_2 -lm
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ ./esercizio3_2dammi r: 0.001
+Q[0.001000] = 0.000000
+E[0.001000] = 0.008378
+V[0.001000] = 25.147860
+V[0.001000] = 25.146285
+V[0.001000] = 25.147827
+franchi@work:~/Scrivania/Dropbox/Corsi_Universitari_2015/Secondo_Semestre/Fisica Computazionale/Esercitazioni a.a. 2015-2016/2016_02_25$ 
+
