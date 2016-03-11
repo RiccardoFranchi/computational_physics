@@ -2,7 +2,7 @@
 #include<math.h>
 #define epsilon 8.8542*pow(10,-12)
 
-
+//Nuovo commento aggiunto
 
 double rho(double r, double alfa){
 	return (alfa*exp(-pow(r,2)/2.0));

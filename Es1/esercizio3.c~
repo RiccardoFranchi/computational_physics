@@ -35,7 +35,7 @@ void calc_E(double *e, double *q, double r, double dr, double ke){
 
 
 int main() {
-	double alfa, r, dr=0.01;
+	double alfa, r, dr=0.0001;
 	double ke=1;
 	int n;
 	//double i;
